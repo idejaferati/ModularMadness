@@ -19,3 +19,7 @@ use of connection:
 ```
 [~]$ g++ modular_madness.cpp
 ```
+or
+```
+[~]$ clang++ modular_madness.cpp
+```
