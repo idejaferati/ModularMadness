@@ -1,0 +1,4 @@
+﻿  ModularMadness.cpp
+C:\Users\Ideja\source\repos\ModularMadness\ModularMadness\ModularMadness.cpp(105,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ideja\source\repos\ModularMadness\ModularMadness\ModularMadness.cpp(141,39): warning C4018: '<': signed/unsigned mismatch
+  ModularMadness.vcxproj -> C:\Users\Ideja\source\repos\ModularMadness\Debug\ModularMadness.exe
